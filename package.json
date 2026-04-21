@@ -1,0 +1,12 @@
+{
+  "name": "speakupindia",
+  "version": "1.0.0",
+  "description": "**Citizen Accountability & Civic Engagement Platform**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
